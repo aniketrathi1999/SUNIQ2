@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990209231861",
+    "firebase_url": "https://sun-iq.firebaseio.com",
+    "project_id": "sun-iq",
+    "storage_bucket": "sun-iq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209231861:android:68ffbdfa758a57189caebc",
+        "android_client_info": {
+          "package_name": "com.example.android.suniq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209231861-fncq73fjtha3cfn6nrshi4v7fidbtinv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.suniq",
+            "certificate_hash": "cf25d2f10363b8554d7d02620c2b78deb4bf31d5"
+          }
+        },
+        {
+          "client_id": "990209231861-t9ukbgmu7nrt7ank88sbkf60aq3imgh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbH5OD2ufasiG8vHiEAIOltuZzK-Er0yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209231861-t9ukbgmu7nrt7ank88sbkf60aq3imgh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
